@@ -1,0 +1,126 @@
+    en: {
+      appName: "One Hour One Life Wiki",
+      appVersion: "App version: ",
+      loading: 'Loading...',
+      filterLabel: 'Filter with versions',
+      filterPlaceholder: 'Select the version',
+      version: 'Version: ',
+      addedInVersion: 'Added in version: ',
+      unreleased: 'Not releases yet',
+      seeChangeLog: 'Click here to see change log for version: ',
+      techTree: 'Tech Tree',
+      craftingSteps: "Steps to craft",
+      craftingRecipe: 'Crafting Recipe',
+      step: "{count} step deep | {count} steps deep",
+      howToUse: 'How to use',
+      howToGet: 'How to get',
+      changedOverTime: 'Changes over time',
+      bonus: 'bonus',
+      ingredients: 'Ingredients',
+      showAllVersion: 'Show All versions',
+
+      objectProperties: {
+        food: 'Food',
+        heat: 'Heat',
+        clothing: 'Clothing',
+        insulation: 'Insulation',
+        size: 'Item Size',
+        lastUse100: 'last use is 100%',
+        useCount: 'Number of Uses',
+        moveCount: 'Number of moves',
+        usesChance: 'Chance to use',
+        difficulty: 'Difficulty',
+        groundHeat: 'Ground Heat',
+        totalFood: 'Total Food',
+        cantFitInContainer: 'Cannot be placed in container',
+        moveDistance: 'Move Distance',
+        tileMove: "{count} Tile | {count} Tiles",
+        pickupAge: 'Pickup at Age',
+        deadly: 'Deadly',
+        blockWalking: 'Blocks walking',
+        walkingSpeed: 'Walking Speed',
+        useDistance: 'Use Distance',
+        moveBehavior: 'Move Behavior',
+        containerItems: 'Holds {count} {size} Items'
+      },
+      difficulty: {
+        ex_easy: "Extremely Easy",
+        v_easy: "Very Easy",
+        easy: "Easy",
+        mod_easy: "Moderately Easy",
+        moderate: "Moderate",
+        mod_hard: "Moderately Hard",
+        hard: "Hard",
+        v_hard: "Very Hard",
+        ex_hard: "Extremely Hard",
+      },
+      changeLog: {
+        label: 'Change log',
+        added: 'Added Objects',
+        transaction: 'Added Transitions',
+        changed: 'Changed Objects',
+        removedObject: 'Removed Objects',
+        removedTransaction: 'Removed Transitions',
+        more: 'Show more...',
+      },
+      menu: {
+        label: 'Menu',
+        home: 'Home',
+        letterRecipie: 'Letter Recipe',
+        version: 'Versions',
+        tips: 'Tips',
+        about: 'About',
+        settings: 'Settings'
+      },
+      filters: {
+        clothing: 'Clothing',
+        food: 'Food',
+        tools: 'Tools',
+        containers: 'Containers',
+        heat: 'Heat Source',
+        natural: 'Natural',
+        animal: 'Animals'
+      },
+      size: {
+        large: 'Large',
+        small:'Small',
+        tiny: 'Tiny'
+      },
+      spawn: {
+        v_rare: 'Very Rare',
+        rare: 'Rare',
+        uncommon: 'Uncommon',
+        common: 'Common',
+        chance: 'Spawn Chance'
+      },
+      clothing: {
+        head: 'Head',
+        chest: 'Chest',
+        bottom: 'Bottom',
+        foot: 'Foot',
+        back: 'Back'
+      },
+      extra: {
+        player: "Player",
+        wildcardObject: "Wildcard Object",
+        emptyHand: "Empty hands",
+        emptyGround: "Empty ground",
+        second: ' second',
+        minute: ' minute',
+        hour: ' hour',
+        with: 'with', //maybe use and
+        last: 'last',
+        estimated: 'Estimated'
+      },
+      moveType: {
+        none: 'None',
+        chase: "Chase",
+        flee: "Flee",
+        randm: "Random",
+        north: "North",
+        south: "South",
+        east: "East",
+        west: "West"
+      }
+    }
+   
