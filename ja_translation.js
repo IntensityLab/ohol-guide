@@ -1,0 +1,125 @@
+ja: {
+      appName: "ワンアワーワンライフウィキ",
+      appVersion: "アプリのバージョン： ",
+      loading: 'ローディング...',
+      filterLabel: 'バージョンで絞り込む',
+      filterPlaceholder: 'バージョンを選択',
+      version: 'バージョン： ',
+      addedInVersion: 'バージョンで追加：',
+      unreleased: 'まだリリースされていません',
+      seeChangeLog: 'バージョンの変更履歴を見るにはここをクリックしてください。: ',
+      techTree: '技術ツリー',
+      craftingSteps: "作成する手順",
+      craftingRecipe: '製作レシピ',
+      step: "{count} 一歩深く | {count} 段差",
+      howToUse: '使い方',
+      howToGet: '取得する方法',
+      changedOverTime: '経時変化',
+      bonus: 'ボーナス',
+      ingredients: '材料',
+      showAllVersion: 'すべてのバージョンを表示',
+
+      objectProperties: {
+        food: 'フード',
+        heat: '熱',
+        clothing: '衣類',
+        insulation: '絶縁',
+        size: '商品サイズ',
+        lastUse100: '最後の使用は100%',
+        useCount: '使用回数',
+        moveCount: '移動数',
+        usesChance: '使うチャンス',
+        difficulty: '困難',
+        groundHeat: '地中熱',
+        totalFood: 'トータルフード',
+        cantFitInContainer: 'コンテナに入れることはできません',
+        moveDistance: '移動距離',
+        tileMove: "{count} タイル | {count} タイル",
+        pickupAge: '年齢別ピックアップ',
+        deadly: '致命的',
+        blockWalking: 'ブロックを歩く',
+        walkingSpeed: 'ウォーキングスピード',
+        useDistance: '距離を使用',
+        moveBehavior: '移動動作',
+        containerItems: 'ホールド {count}  {size}  アイテム'
+      },
+      difficulty: {
+        ex_easy: "極めて 簡単",
+        v_easy: "非常に簡単",
+        easy: "簡単",
+        mod_easy: "やや簡単",
+        moderate: "中程度",
+        mod_hard: "やや硬い",
+        hard: "ハード",
+        v_hard: "とても厳しい",
+        ex_hard: "非常に難しい",
+      },
+      changeLog: {
+        label: '変更ログ',
+        added: '追加されたオブジェクト',
+        transaction: '追加したトランジション',
+        changed: '変更されたオブジェクト',
+        removedObject: '削除されたオブジェクト',
+        removedTransaction: '移行を削除しました',
+        more: 'もっと見せる...',
+      },
+      menu: {
+        label: 'メニュー',
+        home: 'ホーム',
+        letterRecipie: '英字レシピの作り方',//english letter recipe
+        version: 'バージョン',
+        tips: 'ヒント',
+        about: 'このアプリについて',
+        settings: '設定'
+      },
+      filters: {
+        clothing: '衣類',
+        food: 'フード',
+        tools: '道具',
+        containers: 'コンテナ',
+        heat: '熱源',
+        natural: 'ナチュラル',
+        animal: '動物たち'
+      },
+      size: {
+        large: '大',
+        small:'小さい',
+        tiny: '小さな'
+      },
+      spawn: {
+        v_rare: '非常にまれな',
+        rare: 'まれな',
+        uncommon: '珍しい',
+        common: '一般',
+        chance: 'スポーンチャンス'
+      },
+      clothing: {
+        head: '頭',
+        chest: '胸',
+        bottom: '底',
+        foot: '足',
+        back: 'バックウェア'
+      },
+      extra: {
+        player: "プレーヤー",
+        wildcardObject: "ワイルドカードオブジェクト",
+        emptyHand: "空の手",
+        emptyGround: "空の地",
+        second: ' 二番目',
+        minute: ' 分',
+        hour: ' 時',
+        with: 'と', //maybe use and
+        last: '最終',
+        estimated: '概算'
+      },
+      moveType: {
+        none: '無し',
+        chase: "追跡",
+        flee: "逃げる",
+        randm: "ランダム",
+        north: "北",
+        south: "南",
+        east: "東",
+        west: "西"
+      }
+    }
